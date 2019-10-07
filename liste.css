@@ -1,0 +1,95 @@
+
+body
+
+{background-color: blue;}
+
+.lol{
+	color:red;
+	background-color: blue;
+	float: center;
+	font-family: cursive;
+text-shadow: 4px 4px 2px #000000;
+}
+
+.debut{
+	font-family: cursive;
+	color: white;
+}
+
+nav.menu-nav ul li.btn{
+	display:inline-block;
+	list-style-type: : none;
+	float: center;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color:white;
+	background-color:red;
+	transition:0.3s all;
+	padding: 4px;
+	font-size: 15px;	
+	text-decoration: none;
+	float:center;
+	}
+
+
+
+table{
+  border-collapse: collapse;
+margin: auto;
+}
+
+
+td{
+  border: 3px solid black;
+  padding: 10px;
+
+text-align :center;
+
+}
+
+.machambre {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrMYW2f83bVulqkYO68tw1gO4qkJ-s9021aHHZx3VOt6mgtAKeQ);
+	background-repeat: repeat;
+	color: white;
+
+
+}
+
+
+*{
+  font-family: sans-serif;
+  
+}
+fieldset{background-color: grey;}
+legend{
+  font-weight: bold;
+}
+.chp{
+  margin-bottom: 10px;
+}
+textarea{
+  width: 80%;
+  height: 100px;
+}
+input{
+  width: 150px;
+}
+input[type="radio"], input[type="checkbox"]{
+  width: auto;
+}
+input[type="submit"]{
+  width: 100px;
+}
+
+h2{font-family: cursive;
+color: red;
+text-shadow: 4px 4px 2px #000000;}
+
+legend{margin-bottom: 10px;}
+
+.acheté{background-color:green;}
+
+.amis{background-color: orange;}
+
+.urg{background-color: red;}
